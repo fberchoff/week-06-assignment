@@ -1,4 +1,4 @@
-package com.promineo.tech;
+package com.promineotech;
 
 // This class represents a deck of cards
 
