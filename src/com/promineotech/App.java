@@ -1,4 +1,4 @@
-package com.promineo.tech;
+package com.promineotech;
 
 /* This app simulates a game of War between two players.
  * Over 26 rounds, each player will flip a card.  The player who flips the card
