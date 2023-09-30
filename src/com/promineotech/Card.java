@@ -1,4 +1,4 @@
-package com.promineo.tech;
+package com.promineotech;
 
 // This is the class for a game card
 
